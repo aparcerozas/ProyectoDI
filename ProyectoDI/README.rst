@@ -7,19 +7,12 @@ La aplicación simula un programa de gestión de una tienda y dispone de las sig
 * Varios formularios, entre ellos:
 
     * Tenemos un menu de inicio en el que podemos elegir entre 4 opciones:
-                .. image:: /App/Images/uno.jpg
 
             * Gestión de clientes, crear, modificar o eliminar.
 
-                .. image:: /App/Images/dos.jpg
-
             * Gestión de productos, crear producto asignado a un cliente.
 
-                .. image:: /App/Images/tres.jpg
-
-            * Gestión Principal, dónde listamos clientes y productos asignados a cada cliente mediante un treeview sensible a la selección y generamos facturas o listaclientes.
-
-                .. image:: /App/Images/cuatro.jpg
+            * Gestión Principal, dónde listamos clientes y productos asignados a cada cliente mediante un treeview sensible a la       selección y generamos facturas o listaclientes.
 
             * Salir, para salir de la aplicaciçón, cerrando en la X también serviría.
 
