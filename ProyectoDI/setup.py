@@ -3,10 +3,10 @@ import setuptools
 descripcion_longa = open('Readme.txt').read()
 
 setuptools.setup(
-    name="Proyecto python interfaces",
+    name="ProyectoDI",
     version="0.0.1",
-    author="finfanterodal",
-    author_email="finfanterodal@danielcastelao.org",
+    author="aparcerozas",
+    author_email="aparcerozas@danielcastelao.org",
     url="https://www.danielcastelao.org",
     license="GLP",
     platforms="Unix",
